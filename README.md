@@ -1,16 +1,32 @@
 ### Hi there 👋
 
-<!--
-**Imbussstation/Imbussstation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a versatile developer with a passion for full-stack Java development, web frontend design, and C programming. Below, you'll find an overview of my skills and how to connect with me.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I thrive in building end-to-end software solutions, whether it's crafting user-friendly web interfaces or diving into the nitty-gritty of systems programming. My expertise includes:
+
+- **Full-Stack Development:** Java, Spring Framework, JavaScript, React
+- **Web Frontend:** HTML, CSS, TypeScript, UI/UX design
+- **Systems Programming:** C, C++, Linux, POSIX API
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Deployment & DevOps:** Docker, AWS, Jenkins
+- **Version Control:** Git
+- **Testing:** JUnit, TestNG
+
+## Connect with Me
+
+Let's collaborate on exciting projects and discuss Java development, web design, or systems programming. Feel free to reach out to me on:
+
+- **GitHub:** [github.com/Imbussstation](https://github.com/Imbussstation)
+- **Email:** imbussstation@gmx.at
+- **Discord:** Imbussstation
+
+Feel free to explore my repositories and get in touch for any inquiries or opportunities. Let's build something amazing together!
+
+[![GitHub followers](https://img.shields.io/github/followers/Imbussstation?label=Follow&style=social)](https://github.com/Imbussstation)
+
+---
+
+*Thank you for visiting my GitHub profile!* 🚀
+
