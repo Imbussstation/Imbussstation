@@ -8,7 +8,7 @@ I thrive in building end-to-end software solutions, whether it's crafting user-f
 
 - **Full-Stack Development:** Java, Spring Framework, JavaScript, React
 - **Web Frontend:** HTML, CSS, TypeScript, UI/UX design
-- **Systems Programming:** C, C++, Linux, POSIX API
+- **Systems Programming:** C, C++, Linux
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Deployment & DevOps:** Docker, AWS, Jenkins
 - **Version Control:** Git
