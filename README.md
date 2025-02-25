@@ -19,7 +19,7 @@ I thrive in building end-to-end software solutions, whether it's crafting user-f
 Let's collaborate on exciting projects and discuss Java development, web design, or systems programming. Feel free to reach out to me on:
 
 - **GitHub:** [github.com/Imbussstation](https://github.com/Imbussstation)
-- **Email:** imbussstation@gmx.at
+- **Email:** 
 - **Discord:** Imbussstation
 
 Feel free to explore my repositories and get in touch for any inquiries or opportunities. Let's build something amazing together!
